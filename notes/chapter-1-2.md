@@ -55,7 +55,7 @@ An HTTP response looks similar to a request and contains:
 The HTTP server can instruct the client to hold onto resources for a certain period of time, so that the server does not need to waste resources by serving the same resource repeatedly and unnecessarily.
 
 ### HOWL stack
-**"HOWL:"** Hypermedia On Whatever you'd Like
+**"HOWL":** Hypermedia On Whatever you'd Like
 
 Because the hypermedia approach doesn't rely heavily on client-sided JavaScript, it alleviates pressure on the developer to adopt JavaScript-based server technologies like node.js for their backend, a choice that they otherwise may have made in order to have a language-unified codebase.
 
