@@ -47,9 +47,10 @@ Here is `layout.html`, the basic template that all of the templates extend:
 ```
 Note that this template contains the basic elements that will be common to all or most pages: the header, the `h1` page heading, and the stylesheets that should be used on all pages.
 
-Also note how the `content` block is defined. When we want to extend this `layout`, all we need to do is define what to put in `content`. To do so is also simple:
-
+Also note how the `content` block is defined. When we want to extend this `layout`, all we need to do is provide some `content`. To do so is simple:
 ```
+{% extends 'layout.html' %}
+
 {% block content %}
 
 <form action="/contacts" method="get" class="tool-bar">
