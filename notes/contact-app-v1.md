@@ -1,6 +1,5 @@
-# Hypermedia Systems, Chapter 1
-
-## Notes for `contact.app`, Web 1.0 Version
+# Hypermedia Systems, Chapter 1.3:<br>_Notes for contact.app, Web 1.0 Version_
+This document contains miscellaneous observations I found remarkable while building the example `contact.app` in Chapter 1.3.
 
 ### Flask: making variables available within a template
 ```

@@ -1,6 +1,4 @@
-# Hypermedia Systems, Chapter 1
-
-## Hypermedia: A Reintroduction
+# Hypermedia Systems, Chapter 1.1:<br>_Hypermedia: A Reintroduction_
 
 ### Hypermedia controls
 > A **hypermedia control** is an element in a hypermedia that describes (or controls) some sort of interaction, often with a remote server, by encoding information about that interaction directly and completely within itself.

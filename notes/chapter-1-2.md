@@ -1,6 +1,4 @@
-# Hypermedia Systems, Chapter 1
-
-## Components of a Hypermedia System
+# Hypermedia Systems, Chapter 1.2:<br>_Components of a Hypermedia System_
 
 ### Anatomy of a URL
 Most subcomponents of a URL are not required, and are often omitted.

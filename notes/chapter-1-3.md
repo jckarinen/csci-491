@@ -1,6 +1,4 @@
-# Hypermedia Systems, Chapter 1
-
-## A Web 1.0 Application
+# Hypermedia Systems, Chapter 1.3:<br>_A Web 1.0 Application_
 
 ### Common approach to search results pages in Web 1.0 applications
 > This is a common approach in web 1.0 style applications: the same URL that displays all instances of some resource also serves as the search results page for those resources. Taking this approach makes it easy to reuse the list display that is common to both types of request.
