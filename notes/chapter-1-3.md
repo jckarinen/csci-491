@@ -28,3 +28,5 @@ The text advises that you should pick a URL design scheme that is **resource-ori
 
 ### Factoring code: client vs server-side
 > Note that factoring on the server-side tends to be coarser-grained than on the client-side: you tend to split out common *sections* rather than create lots of individual components. This has benefits (it tends to be simple) as well as drawbacks (it is not nearly as isolated as client-side components).
+
+(Not really sure what this means yet, but seemed worth writing down)
